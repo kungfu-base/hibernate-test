@@ -16,3 +16,7 @@ com/kungfu/api
 ```
 com/kungfu/one2many
 ```
+### step5 lazy test
+```
+com/kungfu/lazy
+```
